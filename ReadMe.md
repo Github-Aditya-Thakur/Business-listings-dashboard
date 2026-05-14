@@ -560,31 +560,9 @@ mysqldump -u root -p business\_dashboard > db\_dump.sql
 
 ```
 
-
-
-\---
-
-
-
-\## Demo Video (What to Show)
-
-1\. MySQL table and row count (500+)
-
-2\. FastAPI `/docs` + dashboard endpoints
-
-3\. React dashboard charts
-
-4\. Seed + Wikipedia scraping approach explanation
-
-5\. (Optional) Re-run `wiki\_multi\_scraper.py` to show idempotent inserts (0 new inserts)
-
-
-
-\---
-
-
-
 \## License
 
-For internship assessment / educational use.
+For internship assessment.
+
+---
 
